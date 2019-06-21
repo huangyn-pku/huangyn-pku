@@ -97,58 +97,16 @@
         {
           "_params": {
             "showBullets": true,
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-3-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bb-1501x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bb-1501x1200-800x640.jpg",
                 "alt": "",
                 "title": "",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-4-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-5-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-7.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-7-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
-                "alt": "",
-                "title": ""
               }
             ]
           },
